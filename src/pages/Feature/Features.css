@@ -1,0 +1,20 @@
+.titleone{
+
+ 
+
+    text-align: center;
+    
+    position: relative;
+  }
+  
+  .titleone:before {
+    content: "";
+    display: block;
+    width: 240px;
+    height: 5px;
+    background: #C2DFDC;
+    left: 40%;
+    top: 130%;
+    position: absolute;
+    
+}

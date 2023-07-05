@@ -1,0 +1,31 @@
+.title{
+
+    margin: 100px auto;
+
+    text-align: center;
+    
+    position: relative;
+  }
+  
+  .title:before {
+    content: "";
+    display: block;
+    width: 270px;
+    height: 5px;
+    background: #C2DFDC;
+    left: 40%;
+    top: 130%;
+    position: absolute;
+    
+}
+/* .title:after {
+    content: "";
+    display: block;
+    width: 110px;
+    height: 5px;
+    background: #C2DFDC;
+    right: 40%;
+    top: 130%;
+    position: absolute;
+
+} */

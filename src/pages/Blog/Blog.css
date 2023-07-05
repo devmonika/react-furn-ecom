@@ -1,0 +1,17 @@
+
+.blog-title{
+    text-align: center;
+    
+    position: relative;
+  }
+  
+  .blog-title:before {
+    content: "";
+    display: block;
+    width: 345px;
+    height: 5px;
+    background: #C2DFDC;
+    left: 37%;
+    top: 130%;
+    position: absolute;
+}
